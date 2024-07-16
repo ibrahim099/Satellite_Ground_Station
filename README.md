@@ -6,3 +6,5 @@ Features
     Real-Time Updates: Displays data on the screen in real time.
     User-Friendly Interface: Provides an easy-to-understand and simple-to-use interface.
     Data Visualization: Utilizes graphs and other visualization tools to enhance data comprehension.
+
+    ![satellite](https://github.com/user-attachments/assets/623c7ea7-0e9b-4714-86c8-71a885520a5b)
